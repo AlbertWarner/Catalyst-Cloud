@@ -1,7 +1,7 @@
-## Catalyst-Cloud
+# Catalyst-Cloud
 - <a href="https://catalystcloud.nz/">Catalyst Cloud link </a>
 
-# Python Script
+## Python Script
  - Script connect to Catalyst Cloud
  - Checks if network is available
  - Check if a SSH Key is already created, otherwise creates one
